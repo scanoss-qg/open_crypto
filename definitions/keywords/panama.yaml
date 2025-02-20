@@ -1,0 +1,18 @@
+# SPDX-FileContributor: [Author Name(s)] <[Optional: Email Address(es)]>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+algorithmId: panama
+algorithmName: PANAMA Hash and Stream Cipher
+securityStrength: '128'
+keywords:
+    - panama.h
+    - panama_LTX__
+    - panama_
+    - PanamaInit
+    - PanamaUpdate
+    - PanamaFinal  
+    - PanamaEncrypt
+    - PanamaContext
+    - PanamaKeySetup
+    

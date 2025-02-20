@@ -1,0 +1,11 @@
+# SPDX-FileContributor: [Author Name(s)] <[Optional: Email Address(es)]>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+algorithmId: ssha
+algorithmName: Salted Secure Hash Algorithm
+securityStrength: '128'
+keywords:
+    - checkssha
+    - SSHA_
+    - SSHA224Password
